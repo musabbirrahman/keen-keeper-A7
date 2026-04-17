@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Marcus Johnson",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "marcus.j@example.com",
+    "days_since_contact": 21,
+    "status": "overdue",
+    "tags": ["college", "tech", "close friend"],
+    "bio": "Roommate from sophomore year. We usually talk about coding and video games.",
+    "goal": 14,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Chen",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "schen.design@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "Former senior designer at my first agency. Great for career advice.",
+    "goal": 30,
+    "next_due_date": "2026-05-12"
+  },
+  {
+    "id": 3,
+    "name": "David Miller",
+    "picture": "https://randomuser.me/api/portraits/men/22.jpg",
+    "email": "david.miller99@example.com",
+    "days_since_contact": 13,
+    "status": "almost due",
+    "tags": ["childhood", "hometown"],
+    "bio": "Grew up on the same street. We try to catch up every couple of weeks.",
+    "goal": 14,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 4,
+    "name": "Elena Rodriguez",
+    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "email": "elena.r@example.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["book club", "local"],
+    "bio": "Met at the neighborhood bookstore. Shares my taste in sci-fi and fantasy.",
+    "goal": 21,
+    "next_due_date": "2026-05-06"
+  },
+  {
+    "id": 5,
+    "name": "James Wilson",
+    "picture": "https://randomuser.me/api/portraits/men/55.jpg",
+    "email": "jwilson.photography@example.com",
+    "days_since_contact": 65,
+    "status": "overdue",
+    "tags": ["hobby", "photography"],
+    "bio": "Went on that Iceland photography trip together. Need to see his new prints.",
+    "goal": 60,
+    "next_due_date": "2026-04-12"
+  },
+  {
+    "id": 6,
+    "name": "Priya Patel",
+    "picture": "https://randomuser.me/api/portraits/women/33.jpg",
+    "email": "priya.patel.dev@example.com",
+    "days_since_contact": 88,
+    "status": "almost due",
+    "tags": ["networking", "tech"],
+    "bio": "Met at a tech conference last year. Good connection for startup news.",
+    "goal": 90,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 7,
+    "name": "Michael Chang",
+    "picture": "https://randomuser.me/api/portraits/men/11.jpg",
+    "email": "m.chang.foodie@example.com",
+    "days_since_contact": 12,
+    "status": "on-track",
+    "tags": ["foodie", "college"],
+    "bio": "Always knows the best new restaurants in the city.",
+    "goal": 30,
+    "next_due_date": "2026-05-05"
+  },
+  {
+    "id": 8,
+    "name": "Jessica Smith",
+    "picture": "https://randomuser.me/api/portraits/women/12.jpg",
+    "email": "jess.smith88@example.com",
+    "days_since_contact": 150,
+    "status": "overdue",
+    "tags": ["family", "cousin"],
+    "bio": "Cousin on my mom's side. Moved to the West Coast recently.",
+    "goal": 90,
+    "next_due_date": "2026-02-15"
+  },
+  {
+    "id": 9,
+    "name": "Tom Baker",
+    "picture": "https://randomuser.me/api/portraits/men/85.jpg",
+    "email": "tbaker.fitness@example.com",
+    "days_since_contact": 1,
+    "status": "on-track",
+    "tags": ["gym", "fitness"],
+    "bio": "Gym buddy. We spot each other on Tuesdays and Thursdays.",
+    "goal": 7,
+    "next_due_date": "2026-04-23"
+  },
+  {
+    "id": 10,
+    "name": "Nina Kraviz",
+    "picture": "https://randomuser.me/api/portraits/women/24.jpg",
+    "email": "nina.k.music@example.com",
+    "days_since_contact": 28,
+    "status": "almost due",
+    "tags": ["music", "concerts"],
+    "bio": "We go to all the electronic music festivals together.",
+    "goal": 30,
+    "next_due_date": "2026-04-19"
+  }
+]
