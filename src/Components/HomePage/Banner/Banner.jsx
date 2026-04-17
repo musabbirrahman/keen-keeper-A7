@@ -19,11 +19,16 @@ const Banner = () => {
             </button>
           </div>
         </div>
+        
       </div>
 
+        
       <div>
-        <div className="w-full  p-6 sm:p-10">
-          <div className="w-[95%] md:w-[80%] mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">          
+        
+        <div className="w-full p-6 sm:p-10">         
+            
+          <div className="w-[95%] md:w-[80%] mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
+                      
               <div               
                 className="bg-white rounded-xl shadow-sm border border-gray-100 p-6 sm:p-8 flex flex-col items-center justify-center text-center"
               >                
