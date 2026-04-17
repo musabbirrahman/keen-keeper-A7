@@ -2,6 +2,7 @@ import { createBrowserRouter } from "react-router";
 import HomePage from "../Components/HomePage/HomePage";
 import MainLayout from "../Components/Layout/MainLayout";
 import ErrorComponent from "../Components/ErrorComponent/ErrorComponent";
+import FriendsDetails from "../pages/FriendsDetails";
 
 
 
@@ -19,6 +20,11 @@ export const router = createBrowserRouter([
         {
             path: "stats", element: <h1>stats</h1>
         },
+        {
+            path: "friendsDetails/:id",
+            element: <FriendsDetails></FriendsDetails>,
+            loader: ()=> fetch('/friends.json')
+        }
     ],
     errorElement: <ErrorComponent></ErrorComponent>
   },

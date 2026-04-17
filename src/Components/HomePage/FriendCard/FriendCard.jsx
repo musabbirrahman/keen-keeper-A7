@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router";
 
 const FriendCard = ({ friend }) => {
   const statusConfig = {
@@ -12,7 +13,7 @@ const FriendCard = ({ friend }) => {
   };
   return (
     
-      <div
+      <Link to={`/friendsDetails/${friend.id}`}
         className="bg-white h-full rounded-2xl shadow-sm border border-gray-100 p-8 flex flex-col items-center text-center"
       >
         <img
@@ -45,7 +46,7 @@ const FriendCard = ({ friend }) => {
             {statusStyle.label}
           </span>
         </div>
-      </div>
+      </Link>
     
   );
 };
